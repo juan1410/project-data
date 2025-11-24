@@ -3,14 +3,14 @@
     {
       "title": "Personal Website",
       "image": "about-image1.JPG",
-      "alt": "Portfolio preview"
+      "alt": "Portfolio preview",
       "description": "My portfolio built with HTML, CSS, and JavaScript.",
       "link": "https://hw5-site.pages.dev/"
     },
     {
       "title": "Smart Door Project",
       "image": "smartdoor.jpg",
-      "alt": "Preview of Smart Door Project"
+      "alt": "Preview of Smart Door Project",
       "description": "A Raspberry Pi + Galaxy Watch system that unlocks a servo-controlled door (Currently in Progress).",
       "link": "https://github.com/juan1410/smart-door"
     }
